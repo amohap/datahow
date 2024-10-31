@@ -22,8 +22,8 @@ RMSE: 1046.780
 MAE: 893.544
 MAPE: 112.27%
 
-![Random Forest Training Plots](/home/amohap/github/datahow/visualizations/RandomForest_Train.png)
-![Random Forest Testing Plots](/home/amohap/github/datahow/visualizations/RandomForest_Test.png)
+![Random Forest Training Plots](visualizations/RandomForest_Train.png)
+![Random Forest Testing Plots](visualizations/RandomForest_Test.png)
 
 The results of the LSTM are the following.
 Training Set Metrics:
@@ -38,5 +38,5 @@ RMSE: 387.365
 MAE: 306.550
 MAPE: 16.24%
 
-![LSTM Loss](/home/amohap/github/datahow/visualizations/LSTM_Loss.png)
-![LSTM Testing](/home/amohap/github/datahow/visualizations/LSTM_Testing.png)
+![LSTM Loss](visualizations/LSTM_Loss.png)
+![LSTM Testing](visualizations/LSTM_Testing.png)
