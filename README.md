@@ -7,9 +7,12 @@ The first implementation was done with a [random forest regression model](Random
 
 You can run `python3 RandomForest.py` or `python3 LSTM.py` in order to get the descriptive statistics, the metrics, and the plots.
 
+## Visualizations
 The visualizations can be found [here](visualizations).
 
+## Results
 The results of the Random Forest Regression model are the following.
+
 Training Set Metrics:
 R² Score: 0.660
 RMSE: 436.928
@@ -26,6 +29,7 @@ MAPE: 112.27%
 ![Random Forest Testing Plots](visualizations/RandomForest_Test.png)
 
 The results of the LSTM are the following.
+
 Training Set Metrics:
 R² Score: 0.559
 RMSE: 588.267
